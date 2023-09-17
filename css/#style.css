@@ -1,0 +1,21 @@
+h3 {
+  /* styling h3 element */
+  font-display: auto;
+}
+
+.single-card {
+  /* styling single card */ 
+  display: grid;
+
+  grid-template-rows: auto;
+
+}
+
+.knife-image {
+  /* styling image */
+  object-fit: cover;
+  border: solid;
+
+  width: 50%;
+  height: 50%;
+}
