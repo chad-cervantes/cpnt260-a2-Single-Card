@@ -4,16 +4,17 @@ body {
 
   box-sizing: border-box;
 
+  border: solid;
+
   width: 30%;
 
-  border: double;
-  border-radius: 5%;
-
-  padding: 30px;
+  padding: auto;
 
   margin: auto;
   
   max-width: 85ch;
+
+  gap: 1em;
 }
 
 .single-card {
@@ -25,7 +26,6 @@ body {
   justify-content: center;
 
   width: 100%;
-  
   height: 100%;
 
   margin: auto;
@@ -33,10 +33,10 @@ body {
   overflow-wrap: break-word;
 
   background-color: hsl(217, 23%, 88%);
+ 
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
-  color: #9a5e28;
-
-  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding: auto;
 }
 
 h3 {
@@ -69,8 +69,8 @@ a:visited {
 }
 
 a:hover {
-  background-color: hsl(0, 23%, 74%);
-  color: hsl(0, 23%, 74%);
+  background-color: #a0632a;
+  color: #a0632a;
 }
 
 a:active {
