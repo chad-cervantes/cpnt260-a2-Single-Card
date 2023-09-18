@@ -4,12 +4,13 @@ body {
 
   box-sizing: border-box;
 
-  width: 40%;
+  width: 30%;
 
   border: solid;
   padding: 10px;
 
   margin: auto;
+  max-width: 85ch;
 }
 
 .single-card {
