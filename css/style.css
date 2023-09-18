@@ -4,24 +4,32 @@ body {
 
   box-sizing: border-box;
 
-  width: 50%;
+  width: 40%;
 
   border: solid;
-  padding: 20px;
+  padding: 10px;
+
+  margin: auto;
 }
 
 .single-card {
   /* styling single card */ 
-  display: flex
-  
-  flex-direction: column;
+  display: block;
+
   align-items: center;
   justify-content: center;
+
+  width: 100%;
+  height: 100%;
+
+  margin: auto;
 }
 
 h3 {
   /* styling h3 element */
   text-align: left;
+
+  font-size: 20px;
 }
 
 .knife-image {
