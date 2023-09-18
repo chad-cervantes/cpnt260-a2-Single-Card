@@ -1,0 +1,33 @@
+body {
+  /* styling body element */
+  grid-template-columns: 1fr 2fr;
+
+  box-sizing: border-box;
+
+  width: 50%;
+
+  border: solid;
+  padding: 20px;
+}
+
+.single-card {
+  /* styling single card */ 
+  display: flex
+  
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h3 {
+  /* styling h3 element */
+  text-align: left;
+}
+
+.knife-image {
+  /* styling image */
+  object-fit: fill;
+
+  width: 100%;
+  height: 100%;
+}
