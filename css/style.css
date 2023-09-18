@@ -6,10 +6,13 @@ body {
 
   width: 30%;
 
-  border: solid;
-  padding: 10px;
+  border: double;
+  border-radius: 5%;
+
+  padding: 30px;
 
   margin: auto;
+  
   max-width: 85ch;
 }
 
@@ -18,12 +21,22 @@ body {
   display: block;
 
   align-items: center;
+  
   justify-content: center;
 
   width: 100%;
+  
   height: 100%;
 
   margin: auto;
+
+  overflow-wrap: break-word;
+
+  background-color: hsl(217, 23%, 88%);
+
+  color: #9a5e28;
+
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 h3 {
@@ -39,4 +52,28 @@ h3 {
 
   width: 100%;
   height: 100%;
+}
+
+a:visited {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  padding: 0.5rem 1rem;
+  margin: auto;
+  width: max-content;
+  
+  text-decoration: none;
+  color: hsl;
+  background-color: hsl(297, 80%, 41%));
+  border-radius: .5rem;
+  border-style: double;
+  display: block;
+}
+
+a:hover {
+  background-color: hsl(0, 23%, 74%);
+  color: hsl(0, 23%, 74%);
+}
+
+a:active {
+  color: hsl(266, 98%, 55%);
+  background-color: hsl(347, 98%, 55%);
 }
