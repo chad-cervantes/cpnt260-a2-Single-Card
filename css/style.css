@@ -2,11 +2,11 @@ body {
   /* styling body element */
   border-style: solid;
   
-  width: 40%;
+  width: max-content;
 
   margin: auto;
  
-  max-width: 50ch;
+  max-width: 100ch;
 
   padding: 0;
 
@@ -63,11 +63,13 @@ a:visited {
 }
 
 a:hover {
+  /* added a hover to the link */
   background-color: #a0632a;
   color: #a0632a;
 }
 
 a:active {
+  /* added a color when link is clicked */
   color: #ebb94f;
   background-color: hsl(347, 98%, 55%);
 }
