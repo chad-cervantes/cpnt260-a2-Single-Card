@@ -1,11 +1,7 @@
 body {
   /* styling body element */
-  width: max-content;
-
   margin: auto;
-  margin-top: 9rem;
- 
-  max-width: max-content;
+  margin-top: 5rem;
 
   text-align: left;
 
@@ -28,9 +24,8 @@ body {
  
   font-family: 'Antonio', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
-  padding: 2rem;
+  padding: 1rem;
 
-  margin-top: 5rem;
   margin: auto;
 
   max-width: 50ch;
