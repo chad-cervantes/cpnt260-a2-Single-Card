@@ -1,13 +1,12 @@
 body {
   /* styling body element */
   margin: auto;
-  margin-top: 1rem;
-
+ 
   text-align: left;
 
   display: block;
 
-  background-image: linear-gradient(100deg,hsl(268, 67%, 24%), hsl(76, 82%, 56%));
+  background-image: linear-gradient(45deg,hsl(268, 67%, 24%), hsl(76, 82%, 56%));
 
   justify-content: center;
 
@@ -38,7 +37,7 @@ body {
 
 p {
   /* added font-family for paragraph */
-  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 h3 {
@@ -64,10 +63,8 @@ a {
 }
 
 a:visited {
-  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   padding: 0.5rem 1rem;
   margin: auto;
-  width: max-content;
 }
 
 a:hover {
