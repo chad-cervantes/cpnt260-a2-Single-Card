@@ -71,6 +71,7 @@ a {
 }
 
 a:visited {
+  /* added padding & margin */
   padding: 0.5rem 1rem;
   margin: auto;
 }
