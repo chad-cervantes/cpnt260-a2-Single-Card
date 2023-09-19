@@ -35,6 +35,13 @@ body {
   border-radius: 2rem;
 }
 
+main {
+  /* styling main element */
+  width: fit-content;
+
+  margin: auto;
+}
+
 p {
   /* added font-family for paragraph */
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
