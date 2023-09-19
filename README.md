@@ -16,3 +16,5 @@ I used a Youtube video for my link. The Youtube link is [https://www.youtube.com
 I added the Google font 'Antonio' in the index.html file; it's in lines 8-10.
 
 Above & Beyond #1: I used the CSS property 'object-fit: fill' in the .knife-image section in the #style.css file. It's in line 45. 
+
+Above & Beyond #2: I used the CSS property 'clip-path: circle(60%)' in the .knife-image section in the #style.css file. It's in line 50.
