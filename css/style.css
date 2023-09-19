@@ -1,12 +1,13 @@
 body {
   /* styling body element */
   margin: auto;
+  margin-top: 9rem;
  
   text-align: left;
 
   display: block;
 
-  background-image: linear-gradient(45deg,hsl(268, 67%, 24%), hsl(76, 82%, 56%));
+  background-image: linear-gradient(100deg,hsl(307, 82%, 56%), hsl(76, 82%, 56%));
 
   justify-content: center;
 
@@ -23,7 +24,7 @@ body {
  
   font-family: 'Antonio', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
-  padding: 1rem;
+  padding: 2rem;
 
   margin: auto;
 
