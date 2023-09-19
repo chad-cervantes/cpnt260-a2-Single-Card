@@ -3,7 +3,7 @@ CPNT 260;
 
 Assignment 2 - Single Card;
 
-Chad Cervantes; 
+Author - Chad Cervantes; 
 
 GH Page: [https://chad-cervantes.github.io/cpnt260-a2-Single-Card/]
 
