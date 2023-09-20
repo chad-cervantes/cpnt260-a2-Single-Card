@@ -99,8 +99,3 @@ button {
   margin: auto;
   width: max-content;
 }
-
-button:hover {
-  /* Hover state for button */
-  color: #a0632a;
-}
