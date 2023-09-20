@@ -85,3 +85,20 @@ a:active {
   /* added a color when link is clicked */
   color: #ebb94f;
 }
+
+button {
+  /* Call-to-Action button */
+  border-radius: .5rem;
+  border-style: double;
+  
+  display: block;
+
+  padding: 0.5rem 1rem;
+  margin: auto;
+  width: max-content;
+}
+
+button:hover {
+  /* Hover state for button */
+  color: #a0632a;
+}
