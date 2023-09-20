@@ -11,7 +11,7 @@ ATTRIBUTIONS
 
 I copied an image for my single card. It's on line 17 in the index.html file. The link is [https://knifeplanet.net/wp-content/uploads/2022/01/uses-of-the-different-types-of-kitchen-knives-2-768x436.jpg]. The original source of this image is from [https://knifeplanet.net/2022/01/18/uses-of-the-different-types-of-kitchen-knives/].
 
-I used a Youtube video for my link. The Youtube link is [https://www.youtube.com/watch?v=0qWg53m024E]; it's on line 15 in the index.html file.
+I used a Youtube video for my external webpage. The Youtube link is [https://www.youtube.com/watch?v=0qWg53m024E]; it's on line 15 in the index.html file.
 
 I added the Google font 'Antonio' in the index.html file; it's in lines 8-10.
 
