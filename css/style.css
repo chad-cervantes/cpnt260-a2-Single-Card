@@ -80,7 +80,7 @@ a:hover {
   /* added a hover to the link */
   color: #a0632a;
   
-  filter: drop-shadow(10px 10px 15px hsl(262, 89%, 45%));
+  filter: drop-shadow(20px 20px 50px hsl(204, 89%, 45%));
 }
 
 a:active {
