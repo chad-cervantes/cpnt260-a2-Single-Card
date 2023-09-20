@@ -14,6 +14,13 @@ body {
   line-height: 1.5;
 }
 
+main {
+  /* styling main element */
+  width: fit-content;
+
+  margin: auto;
+}
+
 .single-card {
   /* styling single card */ 
   display: block;
@@ -36,23 +43,16 @@ body {
   border-radius: 2rem;
 }
 
-main {
-  /* styling main element */
-  width: fit-content;
-
-  margin: auto;
-}
-
-p {
-  /* added font-family for paragraph */
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
-
 h3 {
   /* styling h3 element */
   text-align: left;
   
   font-size: 20px;
+}
+
+p {
+  /* added font-family for paragraph */
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .knife-image {
@@ -79,6 +79,8 @@ a:visited {
 a:hover {
   /* added a hover to the link */
   color: #a0632a;
+  
+  filter: drop-shadow(10px 10px 15px hsl(262, 89%, 45%));
 }
 
 a:active {
