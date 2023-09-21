@@ -21,7 +21,7 @@
 I chose the following:
 
 - Object-fit: fill
-  - See line 60 in #style.css
+  - See line 46 in #style.css
 - Clip-path: circle(60%)
-  - See line 65 in #style.css
+  - See line 47 in #style.css
 
