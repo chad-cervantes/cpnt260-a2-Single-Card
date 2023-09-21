@@ -2,29 +2,21 @@ body {
   /* styling body element */
   margin: auto;
   margin-top: 9rem;
- 
-  text-align: left;
-
-  display: block;
-
-  background-image: linear-gradient(100deg,hsl(307, 82%, 56%), hsl(76, 82%, 56%));
-
   justify-content: center;
-
   line-height: 1.5;
+  
+  display: block;
+  background-image: linear-gradient(100deg,hsl(307, 82%, 56%), hsl(76, 82%, 56%));
 }
 
 main {
   /* styling main element */
   width: fit-content;
-
   margin: auto;
 }
 
 h3 {
   /* styling h3 element */
-  text-align: left;
-  
   font-size: 20px;
 }
 
@@ -36,21 +28,15 @@ p {
 .single-card {
   /* styling single card */ 
   display: block;
-
   overflow-wrap: break-word;
-
   background-color: hsl(217, 23%, 88%);
  
   font-family: 'Antonio', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
-  padding: 2rem;
-
   margin: auto;
-
   max-width: 50ch;
-
   justify-content: center;
-
+  
+  padding: 2rem;
   border-style: solid;
   border-radius: 2rem;
 }
@@ -58,11 +44,9 @@ p {
 .knife-image {
   /* styling image */
   object-fit: fill;
-
+  clip-path: circle(60%);
   width: 100%;
   height: 100%;
-
-  clip-path: circle(60%);
 }
 
 a {
@@ -79,7 +63,6 @@ a:visited {
 a:hover {
   /* added a hover to the link */
   color: #a0632a;
-  
   filter: drop-shadow(20px 20px 50px hsl(204, 89%, 45%));
 }
 
